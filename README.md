@@ -1,1 +1,2 @@
 # -Google-Trends-and-Data-Visualisation
+This project aims to analyze the relationship between Google Trends search interest and the price of a stock. Google Trends provides valuable insights into the popularity of search terms over time, while stock prices reflect market sentiment and investor behavior. By correlating these two datasets, we can uncover potential relationships between public interest in a particular trend and its impact on stock prices.
